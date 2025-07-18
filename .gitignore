@@ -1,6 +1,9 @@
 # Data directory - contains sensitive or large data files
 data/
 
+# Results directory - contains processed data files
+results/
+
 # Python
 __pycache__/
 *.py[cod]
